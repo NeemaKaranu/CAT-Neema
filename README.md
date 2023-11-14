@@ -41,12 +41,7 @@ Match the selected shape with its corresponding color.
 Successful matches may trigger animations or visual feedback.
 
 Enjoy the challenge of matching shapes and colors within a set time or attempt to achieve a high score.
-## Technologies Used
-Python
 
-WebGL
-
-Arcade
 
 ## Features
 Visually engaging 2D graphics using PyWebGL.
